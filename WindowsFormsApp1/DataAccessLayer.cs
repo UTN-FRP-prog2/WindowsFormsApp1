@@ -12,6 +12,6 @@ namespace WindowsFormsApp1
     {
         private SqlConnection conn = new SqlConnection("Persist Security Info=False;User ID=sa;Initial Catalog=WinFormsContacts;Data Source=DESKTOP-L2H4HG4\\SQLEXPRESS");
 
-        private SqlConnection conn1 = new SqlConnection("dsfasd");
+        //private SqlConnection conn1 = new SqlConnection("dsfasd");
     }
 }
